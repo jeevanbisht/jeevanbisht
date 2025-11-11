@@ -23,5 +23,5 @@ Most of my work is **hands-on**, focusing on **samples, tested setups, and real-
 Product Manager at **Microsoft**, helping **Frontier Firms** secure their access with AI.  
 Co-author of *[Exam Ref SC-300: Microsoft Identity and Access Administrator (1st Edition)](https://www.microsoftpressstore.com/store/exam-ref-sc-300-microsoft-identity-and-access-administrator-9780137566213)*.  
 
-Passionate about **building what’s next in access and identity**.  
+Passionate about **exploring and what’s next**.  
 Always happy to **chat, collaborate, or share ideas** on the future of AI and secure access.  
