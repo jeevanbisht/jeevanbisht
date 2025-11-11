@@ -1,20 +1,29 @@
-Hi, I'm Jeevan
+👋 Hi, I'm Jeevan
 
-I am learning and build AI agents and ship working examples that anyone can use.
+I build and share AI Agents — practical, working examples that anyone can use.
+Most of my work is hands-on, focusing on samples, tested setups, and real-world integrations across:
 
-Most of my work is hands-on: real code, clear patterns, and tested setups for AI Agents, Multi-agent teams, RAG, tool calling, memory, and local and cloud LLM Apps.
+🧠 AI Agents (single & multi-agent systems)
 
-I run the open-source Awesome LLM Apps, the repo where I drop complete agent templates, clean starter kits, and advanced demos that help devs skip the noise and get straight to building.
+🔗 MCP-based and tool-calling frameworks
 
-What I am working on
+🌐 Browser and environment-aware agents
 
-AI Agents: single-agent, multi-agent, MCP-based, browser agents
+📚 RAG (Retrieval-Augmented Generation) architectures
 
+🚀 What I’m Working On
 
-About Me
+AI Agents: single-agent, multi-agent, and MCP-driven designs
 
-Product Manager at Microsoft , helping Frontier Firms securing their Access with AI 
+Tool Use & Orchestration: connecting agents to real-world APIs and systems
 
-Co-author of "Exam Ref SC-300 Microsoft Identity and Access Administrator 1st Edition"
+Browser Agents: building practical examples for automation and decision-making
 
-Building what's next in Access for Frontier Firm ? Love to chat and share 
+💡 About Me
+
+Product Manager at Microsoft, helping Frontier Firms secure their access with AI.
+Co-author of Exam Ref SC-300: Microsoft Identity and Access Administrator (1st Edition)
+.
+
+Passionate about building what’s next in access and identity.
+Always happy to chat, collaborate, or share ideas on the future of AI and secure access.
