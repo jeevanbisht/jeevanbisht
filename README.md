@@ -1,11 +1,10 @@
 # 👋 Hi, I'm Jeevan
 
-I build and share **AI Agents** — practical, working examples that anyone can use.  
+I Learn, Build and share **AI Agents** — practical, working examples that anyone can use.  
 Most of my work is **hands-on**, focusing on **samples, tested setups, and real-world integrations** across:
 
 - 🧠 AI Agents (single & multi-agent systems)  
 - 🔗 MCP-based and tool-calling frameworks  
-- 🌐 Browser and environment-aware agents  
 - 📚 RAG (Retrieval-Augmented Generation) architectures  
 
 ---
@@ -14,7 +13,7 @@ Most of my work is **hands-on**, focusing on **samples, tested setups, and real-
 
 - **AI Agents:** single-agent, multi-agent, and MCP-driven designs  
 - **Tool Use & Orchestration:** connecting agents to real-world APIs and systems  
-- **Browser Agents:** building practical examples for automation and decision-making  
+
 
 ---
 
