@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jeevan
 
-I Learn, Build and share **AI Agents** — practical, working examples that anyone can use.  
+I Learn, Build and share **AI Agents** , **MCP Servers** — practical, working examples that anyone can use.  
 Most of my work is **hands-on**, focusing on **samples, tested setups, and real-world integrations** across:
 
 - 🧠 AI Agents (single & multi-agent systems)  
